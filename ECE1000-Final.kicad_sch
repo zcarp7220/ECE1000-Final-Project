@@ -4344,7 +4344,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P2.54mm_Vertical_CathodeUp"
+		(property "Footprint" "Diode_THT:D_DO-27_P5.08mm_Vertical_CathodeUp"
 			(at 185.42 82.55 0)
 			(hide yes)
 			(show_name no)
